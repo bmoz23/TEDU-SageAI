@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Environment files
+.env
+
+# Database files
+ChromaDBPersistent/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Resource files
+resources/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
