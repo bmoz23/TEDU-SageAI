@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 import os
 import streamlit as st
 
-GEMINI_API_KEY = "AIzaSyCtAP4zwL4iq8XdCMGoHpojHi9Mo2vvIZU"
 genai.configure(api_key=GEMINI_API_KEY)
 
 #load_dotenv()
